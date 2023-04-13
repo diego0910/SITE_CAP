@@ -1,6 +1,13 @@
-cabeçalho{
-    background-color: brown;
+{
+  margin: 0;
+  padding: 0;
 }
-.imagem_alura{
-    width: 25%;
+
+.cabeçalho{
+    background-color: #727272;
+    display: flex;
+ 
 }
+    .maxresdefault{
+        width: 25;
+    }
